@@ -1,0 +1,19 @@
+{
+  "text_column": "Tweet",
+  "target_column": "HS",
+  "final_text_column": "text_final",
+  "original_samples": 13043,
+  "average_text_length": 87.47757417771984,
+  "average_word_count": 15.206547573411026,
+  "class_distribution": {
+    "0": 7526,
+    "1": 5517
+  },
+  "sastrawi_used": true,
+  "processing_steps": [
+    "basic_cleaning",
+    "advanced_cleaning_with_indonesian_normalization",
+    "stopword_removal",
+    "fast_rule_based_stemming"
+  ]
+}

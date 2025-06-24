@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,Training_Time,Status,Features
+Logistic Regression,0.8386,0.8378,0.7672,0.8009,0.068,Best Model,5003
