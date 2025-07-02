@@ -250,7 +250,7 @@ This removes development files while keeping essential components.
 
 ## Dataset
 
-Training data from [Personality Classification Dataset on Kaggle](https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text?select=data.csv)
+Training data from [Indonesian Hate Speech on Twitter Dataset on Kaggle](https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text?select=data.csv)
 
 ## Acknowledgments
 
