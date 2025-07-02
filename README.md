@@ -248,9 +248,9 @@ python cleanup_project.py
 ```
 This removes development files while keeping essential components.
 
-## License
+## Dataset
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Training data from [Personality Classification Dataset on Kaggle](https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text?select=data.csv)
 
 ## Acknowledgments
 
